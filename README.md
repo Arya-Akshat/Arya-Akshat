@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi there, I'm Akshat Arya!
 
-<!--
-**Arya-Akshat/Arya-Akshat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is where I learn, build, experiment, and create. 🚀  
+Check out my GitHub activity below 👇  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arya-Akshat&show_icons=true&theme=default)
+
+---
+
+## 🗂️ Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arya-Akshat&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=Arya-Akshat)
+
+---
+
+## ✨ Contribution Snake
+![snake gif](https://github.com/Arya-Akshat/Arya-Akshat/blob/output/github-contribution-grid-snake.svg)
+
+---
+
