@@ -1,4 +1,4 @@
-# Hey! 👋 I'm Arya Akshat  
+# Hey! 👋 I'm Akshat Arya
 Computer Science Undergraduate | AI & Software Developer 
 
 📍 India | 📧 akshat.arya13@gmail.com
