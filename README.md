@@ -58,4 +58,4 @@ Currently focused on Python, AI/ML, and system-level concepts.
 ---
 
 ## 💬 Thought of the Day  
-*"Great things are built by those who stay curious."*
+*"Errors are just mini-bosses. Debug… and you level up."*
