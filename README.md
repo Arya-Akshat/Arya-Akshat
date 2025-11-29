@@ -17,50 +17,43 @@ Currently focused on Python, AI/ML, and system-level concepts.
 
 ---
 
-## 🛠 My Tech Toolkit  
+## 🛠 Tech Stack
 
-### **Languages**  
-Python • JavaScript • TypeScript • C • SQL • HTML • CSS • Bash  
+### 💻 Languages  
+🐍 Python • ⚡ JavaScript/TypeScript • 💾 SQL • 🧱 C • 🌐 HTML/CSS
 
-### **Frameworks & Tools**  
-React.js • Node.js • Express.js • FastAPI • Flask • Streamlit • Langchain  
-Docker • Nginx • Git • GitHub • Arduino • Postman • RabbitMQ  
+### ⚙️ Frameworks & Tools  
+⚛️ React • 🟩 Node.js/Express • 🚀 FastAPI/Flask • 🐳 Docker • 🔧 Git/GitHub
 
-### **Libraries & AI**  
-OpenCV • scikit-learn • TensorFlow • Keras • PyTorch  
-NumPy • Pandas • Matplotlib  
+### 🤖 AI & ML  
+🧠 TensorFlow • 🔥 PyTorch • 📊 scikit-learn • 👁️ OpenCV
 
-### **Deep Learning**  
-ANN • CNN • RNN  
+### 📦 Databases & Cloud  
+🍃 MongoDB • 🐘 PostgreSQL • 🐬 MySQL • ☁️ Google Cloud • 🔥 Firebase
 
-### **Databases & Cloud**  
-MongoDB • PostgreSQL • MySQL  
-Google Cloud (Basics) • Firebase • MinIO  
-
-### **Other Skills**  
-RESTful APIs • Prompt Engineering • JWT Authentication  
-Data Preprocessing • Kaggle (Notebooks & Competitions)  
-Deployment (Render / Vercel) • Agile Workflow  
+### 🧰 Other  
+🔐 JWT Auth • 🔗 REST APIs • 🧹 Data Preprocessing • 🚀 Deployment (Render/Vercel)
+ 
 
 ---
 
 ## 📊 GitHub Overview  
 
-### **Top Languages**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arya-Akshat&layout=compact)
+### **Top Languages**
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Arya-Akshat&layout=compact&theme=tokyonight)
 
-### **Stats**  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arya-Akshat&show_icons=true)
+### **Stats**
+![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Arya-Akshat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 ---
 
 ## 🏆 Achievements  
-![trophy](https://github-profile-trophy.vercel.app/?username=Arya-Akshat)
+![trophy](https://github-profile-trophy.vercel.app/?username=Arya-Akshat&theme=tokyonight&margin-w=15)
 
 ---
 
 ## 🐍 Contribution Activity  
-![snake gif](https://github.com/Arya-Akshat/Arya-Akshat/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Arya-Akshat/Arya-Akshat/output/snake.svg)
 
 ---
 
