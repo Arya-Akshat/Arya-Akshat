@@ -1,5 +1,5 @@
 # Hey! 👋 I'm Arya Akshat  
-💻 Developer & Tech Explorer | 🐍 Python + Computer Vision  
+Computer Science Undergraduate | AI & Software Developer 
 
 📍 India | 📧 akshat.arya13@gmail.com
 
